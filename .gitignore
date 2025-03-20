@@ -1,0 +1,6 @@
+# File konfigurasi yang berisi kredensial
+.env
+config.json
+database/secrets.yaml
+__pycache__/
+node_modules/
